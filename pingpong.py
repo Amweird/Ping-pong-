@@ -1,4 +1,3 @@
-import asyncio
 import math
 import random
 import sys
@@ -263,3 +262,4 @@ class Game:
 
 if __name__ == "__main__":
     Game().run()
+
